@@ -1,2 +1,1 @@
-# Projet TP Git
-Travail realise par [Mohammed A] et [Abdou B]
+Travail realise par [Mohammed A] et [maryam B]
